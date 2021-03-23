@@ -513,12 +513,12 @@ SeTinOratheisan.mode = misc_en_US_carroll.Mode1
 SeTinOratheisan.ode = misc_en_US_carroll.Ode9
 SeTinOratheisan.text = "O Virgin Theotokos, you are the gate that the Prophet Ezekiel saw and through which no one went except God alone. We honor you with hymns."
 
-SouITropaiouchos.notmetered = "N/M (As befits Divinity.)"
-SouITropaiouchos.name = "As befits Divinity."
-SouITropaiouchos.incipit = "As befits Divinity…"
+SouITropaiouchos.notmetered = "N/M (Glorified in strength.)"
+SouITropaiouchos.name = "Glorified in strength."
+SouITropaiouchos.incipit = "Glorified in strength…"
 SouITropaiouchos.mode = misc_en_US_carroll.Mode1
 SouITropaiouchos.ode = misc_en_US_carroll.Ode1
-SouITropaiouchos.text = "As befits Divinity, O Lord, * so Your victorious right hand was glorified. * For it shattered adversaries, as it is all-powerful, Immortal One, * opening a new way across the deep for the Israelites."
+SouITropaiouchos.text = "Glorified in strength, as divine, * was Your victorious right hand, immortal Lord; * for, being all-powerful, it dashed and shattered the pursuing enemy, * opening a new way across the sea for the Israelites."
 
 SplanchnonIonan.notmetered = "N/M (Such as it received.)"
 SplanchnonIonan.name = "Such as it received."
