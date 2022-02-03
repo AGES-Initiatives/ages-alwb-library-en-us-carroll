@@ -15,114 +15,114 @@ peDA.dismissal = //dismissals_en_US_carroll.dis00.resurrection
 
 peSV.Stichera1.mode = misc_en_US_carroll.Mode1
 peSV.Stichera1.melody = he.a.m1_en_US_carroll.TonOuranionTagmaton.name
-peSV.Stichera1.incipit = ""
+peSV.Stichera1.incipit = "…"
 peSV.Stichera1.text = ""
 
 peSV.Stichera2.mode = misc_en_US_carroll.Mode1
 peSV.Stichera2.melody = he.a.m1_en_US_carroll.TonOuranionTagmaton.name
-peSV.Stichera2.incipit = ""
+peSV.Stichera2.incipit = "…"
 peSV.Stichera2.text = ""
 
 peSV.Stichera3.mode = misc_en_US_carroll.Mode1
 peSV.Stichera3.melody = he.a.m1_en_US_carroll.TonOuranionTagmaton.name
-peSV.Stichera3.incipit = ""
+peSV.Stichera3.incipit = "…"
 peSV.Stichera3.text = ""
 
 peSV.SticGlory.mode = misc_en_US_carroll.Mode2
 peSV.SticGlory.melody = misc_en_US_carroll.Idiomelon
-peSV.SticGlory.incipit = ""
+peSV.SticGlory.incipit = "…"
 peSV.SticGlory.text = ""
 
 peSV.Aposticha1.mode = misc_en_US_carroll.Mode2
 peSV.Aposticha1.melody = he.a.m2_en_US_carroll.OikosTouEfratha.name
-peSV.Aposticha1.incipit = ""
+peSV.Aposticha1.incipit = "…"
 peSV.Aposticha1.text = ""
 
 peSV.Aposticha2.mode = misc_en_US_carroll.Mode2
 peSV.Aposticha2.melody = he.a.m2_en_US_carroll.OikosTouEfratha.name
-peSV.Aposticha2.incipit = ""
+peSV.Aposticha2.incipit = "…"
 peSV.Aposticha2.text = ""
 
 peSV.Aposticha3.mode = misc_en_US_carroll.Mode2
 peSV.Aposticha3.melody = he.a.m2_en_US_carroll.OikosTouEfratha.name
-peSV.Aposticha3.incipit = ""
+peSV.Aposticha3.incipit = "…"
 peSV.Aposticha3.text = ""
 
 peSV.AposGlory.mode = misc_en_US_carroll.Mode2
 peSV.AposGlory.melody = he.a.m2_en_US_carroll.OikosTouEfratha.name
-peSV.AposGlory.incipit = ""
+peSV.AposGlory.incipit = "…"
 peSV.AposGlory.text = ""
 
 peVE.Stichera01.poet = //poets_en_US_carroll.IoannouMonachou
 peVE.Stichera01.mode = misc_en_US_carroll.Mode1
 peVE.Stichera01.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera01.incipit = ""
+peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = misc_en_US_carroll.Mode1
 peVE.Stichera02.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera02.incipit = ""
+peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = misc_en_US_carroll.Mode1
 peVE.Stichera03.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera03.incipit = ""
+peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.Stichera04.mode = misc_en_US_carroll.Mode1
 peVE.Stichera04.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera04.incipit = ""
+peVE.Stichera04.incipit = "…"
 peVE.Stichera04.text = ""
 
 peVE.Stichera05.mode = misc_en_US_carroll.Mode2
 peVE.Stichera05.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera05.incipit = ""
+peVE.Stichera05.incipit = "…"
 peVE.Stichera05.text = ""
 
 peVE.Stichera06.mode = misc_en_US_carroll.Mode2
 peVE.Stichera06.melody = misc_en_US_carroll.Idiomelon
-peVE.Stichera06.incipit = ""
+peVE.Stichera06.incipit = "…"
 peVE.Stichera06.text = ""
 
 peVE.SticGlory.mode = misc_en_US_carroll.Mode6
 peVE.SticGlory.melody = misc_en_US_carroll.Idiomelon
-peVE.SticGlory.incipit = ""
+peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 
 peVE.Lity1.mode = misc_en_US_carroll.Mode4
 peVE.Lity1.melody = misc_en_US_carroll.Idiomelon
-peVE.Lity1.incipit = ""
+peVE.Lity1.incipit = "…"
 peVE.Lity1.text = ""
 
 peVE.Lity2.mode = misc_en_US_carroll.Mode8
 peVE.Lity2.melody = misc_en_US_carroll.Idiomelon
-peVE.Lity2.incipit = ""
+peVE.Lity2.incipit = "…"
 peVE.Lity2.text = ""
 
 peVE.LityGlory.poet = //poets_en_US_carroll.Anatoliou
 peVE.LityGlory.mode = misc_en_US_carroll.Mode8
 peVE.LityGlory.melody = misc_en_US_carroll.Idiomelon
-peVE.LityGlory.incipit = ""
+peVE.LityGlory.incipit = "…"
 peVE.LityGlory.text = ""
 
 peVE.Aposticha1.mode = misc_en_US_carroll.Mode4
 peVE.Aposticha1.melody = misc_en_US_carroll.Idiomelon
-peVE.Aposticha1.incipit = ""
+peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = ""
 
 peVE.Aposticha2.mode = misc_en_US_carroll.Mode4
 peVE.Aposticha2.melody = misc_en_US_carroll.Idiomelon
-peVE.Aposticha2.incipit = ""
+peVE.Aposticha2.incipit = "…"
 peVE.Aposticha2.text = ""
 
 peVE.Aposticha3.mode = misc_en_US_carroll.Mode4
 peVE.Aposticha3.melody = misc_en_US_carroll.Idiomelon
-peVE.Aposticha3.incipit = ""
+peVE.Aposticha3.incipit = "…"
 peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = misc_en_US_carroll.Mode5
 peVE.AposGlory.melody = misc_en_US_carroll.Idiomelon
-peVE.AposGlory.incipit = ""
+peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 
 peVE.Apolytikion1.mode = misc_en_US_carroll.Mode7
@@ -132,17 +132,17 @@ peVE.Apolytikion1.text = //oc.m7.d1_en_US_carroll.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_US_carroll.Mode1
 peMA.Kathisma11.melody = he.a.m1_en_US_carroll.TouLithouSfragisthentos.name
-peMA.Kathisma11.incipit = ""
+peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = misc_en_US_carroll.Mode1
 peMA.Kathisma21.melody = he.a.m1_en_US_carroll.TonTafonSouSotir.name
-peMA.Kathisma21.incipit = ""
+peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma31.mode = misc_en_US_carroll.Mode1
 peMA.Kathisma31.melody = he.a.m1_en_US_carroll.TonTafonSouSotir.name
-peMA.Kathisma31.incipit = ""
+peMA.Kathisma31.incipit = "…"
 peMA.Kathisma31.text = ""
 
 peMA.MM.Prokeimenon.text = properties_en_US_carroll.media.key
@@ -176,20 +176,20 @@ peMA.C1.verse = //prayers_en_US_carroll.verse_Resurrection.text
 peMA.Ode1C11.ode = misc_en_US_carroll.Ode1
 peMA.Ode1C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode1C11.melody = he.h.m1_en_US_carroll.AsomenPantesLaoi.name
-peMA.Ode1C11.incipit = ""
-peMA.Ode1C11.text = ""
+peMA.Ode1C11.incipit = "Now is the springtime…"
+peMA.Ode1C11.text = "Now is the springtime of souls, * for from His bleak entombment, * like the sun has Christ shone forth ere the third day dawned * and banished into exile * the gloomy winter of our days of sin. * Sing praises to our risen King, * for He is glorified."
 
 peMA.Ode1C12.ode = misc_en_US_carroll.Ode1
 peMA.Ode1C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode1C12.melody = he.h.m1_en_US_carroll.AsomenPantesLaoi.name
-peMA.Ode1C12.incipit = ""
-peMA.Ode1C12.text = ""
+peMA.Ode1C12.incipit = "Queen of the seasons…"
+peMA.Ode1C12.text = "Queen of the seasons is she, * the radiant attendant * of that Day of dazzling splendor, yea the Queen of Days; * the Paschaltide rejoices * the chosen people, the exultant Church; * unceasingly she praises * the risen victor Christ."
 
 peMA.Ode1C13.ode = misc_en_US_carroll.Ode1
 peMA.Ode1C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode1C13.melody = he.h.m1_en_US_carroll.AsomenPantesLaoi.name
-peMA.Ode1C13.incipit = ""
-peMA.Ode1C13.text = ""
+peMA.Ode1C13.incipit = "Neither the gatehouse…"
+peMA.Ode1C13.text = "Neither the gatehouse of death, * nor yet the tomb's confinement, * nor the doors securely barred withstood Your might, O Christ; * but, risen, You appeared there * amidst your friends, bestowing peace on them: * that peace of God that passes * all understanding of men."
 
 peMA.Ode3C1H.ode = misc_en_US_carroll.Ode3
 peMA.Ode3C1H.mode = misc_en_US_carroll.Mode1
@@ -200,20 +200,20 @@ peMA.Ode3C1H.text = he.h.m1_en_US_carroll.StereosonMeChriste.text
 peMA.Ode3C11.ode = misc_en_US_carroll.Ode3
 peMA.Ode3C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode3C11.melody = he.h.m1_en_US_carroll.StereosonMeChriste.name
-peMA.Ode3C11.incipit = ""
-peMA.Ode3C11.text = ""
+peMA.Ode3C11.incipit = "No longer old…"
+peMA.Ode3C11.text = "No longer old but now new, * no more corruptible, graced now with incorruption * You rendered us by Your Passion and Cross, O Christ, * commanding we worthily walk now in newness of life."
 
 peMA.Ode3C12.ode = misc_en_US_carroll.Ode3
 peMA.Ode3C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode3C12.melody = he.h.m1_en_US_carroll.StereosonMeChriste.name
-peMA.Ode3C12.incipit = ""
-peMA.Ode3C12.text = ""
+peMA.Ode3C12.incipit = "Imprisoned fast…"
+peMA.Ode3C12.text = "Imprisoned fast in a tomb, * a man of circumscribed body, the God Uncircumscribed, * O Christ, You rose, and You stood, though the doors were shut * amidst Your disciples, Messiah All-Powerful."
 
 peMA.Ode3C13.ode = misc_en_US_carroll.Ode3
 peMA.Ode3C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode3C13.melody = he.h.m1_en_US_carroll.StereosonMeChriste.name
-peMA.Ode3C13.incipit = ""
-peMA.Ode3C13.text = ""
+peMA.Ode3C13.incipit = "our wounds…"
+peMA.Ode3C13.text = "Your wounds, longsuffering Christ, * to which You freely submitted for our salvation, * You kept intact, and You showed your disciples there * as proof of Your awesome and glorious rising forth."
 
 peMA.Hypakoe.mode = misc_en_US_carroll.Mode6
 peMA.Hypakoe.melody = ""
@@ -229,26 +229,26 @@ peMA.Ode4C1H.text = he.h.m1_en_US_carroll.MegaToMystirion.text
 peMA.Ode4C11.ode = misc_en_US_carroll.Ode4
 peMA.Ode4C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode4C11.melody = he.h.m1_en_US_carroll.MegaToMystirion.name
-peMA.Ode4C11.incipit = ""
-peMA.Ode4C11.text = ""
+peMA.Ode4C11.incipit = "Then He tasted gall…"
+peMA.Ode4C11.text = "Then He tasted gall and healed our tasting of the tree of knowledge; * now, as He partakes of the sweetness of honeycomb before His friends, * to Adam He gives in turn * a sweeter grace: to partake of His deity."
 
 peMA.Ode4C12.ode = misc_en_US_carroll.Ode4
 peMA.Ode4C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode4C12.melody = he.h.m1_en_US_carroll.MegaToMystirion.name
-peMA.Ode4C12.incipit = ""
-peMA.Ode4C12.text = ""
+peMA.Ode4C12.incipit = "You delight…"
+peMA.Ode4C12.text = "You delight, O Friend of Man, in being studied and examined; * hence You urge your doubting disciple with doubting hand to probe Your side * and prove thus to all the world * that You arose in the flesh indisputably."
 
 peMA.Ode4C13.ode = misc_en_US_carroll.Ode4
 peMA.Ode4C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode4C13.melody = he.h.m1_en_US_carroll.MegaToMystirion.name
-peMA.Ode4C13.incipit = ""
-peMA.Ode4C13.text = ""
+peMA.Ode4C13.incipit = "Lo the riches…"
+peMA.Ode4C13.text = "Lo the riches Thomas drew from that unplundered store of treasure -- * yea Your lance-pierced side, Benefactor, that fount of pure theology; * with wisdom and knowledge now * a faithful Didymus fills the entire earth."
 
 peMA.Ode4C14.ode = misc_en_US_carroll.Ode4
 peMA.Ode4C14.mode = misc_en_US_carroll.Mode1
 peMA.Ode4C14.melody = he.h.m1_en_US_carroll.MegaToMystirion.name
-peMA.Ode4C14.incipit = ""
-peMA.Ode4C14.text = ""
+peMA.Ode4C14.incipit = "Your all-blessed tongue…"
+peMA.Ode4C14.text = "Your all-blessed tongue, O Thomas, is the subject of our anthem: * for of mortal tongues it was first to proclaim and herald piously * that Jesus is God and Lord * -- for when you touched Him, He filled you with grace divine."
 
 peMA.Ode5C1H.ode = misc_en_US_carroll.Ode5
 peMA.Ode5C1H.mode = misc_en_US_carroll.Mode1
@@ -259,20 +259,20 @@ peMA.Ode5C1H.text = he.h.m1_en_US_carroll.EkNyktosOrthrizontesYmnoumenSe.text
 peMA.Ode5C11.ode = misc_en_US_carroll.Ode5
 peMA.Ode5C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode5C11.melody = he.h.m1_en_US_carroll.EkNyktosOrthrizontesYmnoumenSe.name
-peMA.Ode5C11.incipit = ""
-peMA.Ode5C11.text = ""
+peMA.Ode5C11.incipit = "Standing in the midst…"
+peMA.Ode5C11.text = "Standing in the midst of His till now disheartened friends, * the Savior by His presence there * drives their sad dejection far away: * they exultantly jubilate, hailing the risen Christ."
 
 peMA.Ode5C12.ode = misc_en_US_carroll.Ode5
 peMA.Ode5C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode5C12.melody = he.h.m1_en_US_carroll.EkNyktosOrthrizontesYmnoumenSe.name
-peMA.Ode5C12.incipit = ""
-peMA.Ode5C12.text = ""
+peMA.Ode5C12.incipit = "O how truly laudable…"
+peMA.Ode5C12.text = "O how truly laudable, how truly full of dread * the exploit Thomas took in hand: * for he boldly touched with mortal hand, * mid a cloud thick with thunders and lightnings, the side of God."
 
 peMA.Ode5C13.ode = misc_en_US_carroll.Ode5
 peMA.Ode5C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode5C13.melody = he.h.m1_en_US_carroll.EkNyktosOrthrizontesYmnoumenSe.name
-peMA.Ode5C13.incipit = ""
-peMA.Ode5C13.text = ""
+peMA.Ode5C13.incipit = "Unbelief was made…"
+peMA.Ode5C13.text = "Unbelief was made for us the mother of belief, * for You, good Christ, arrange all things * by Your wisdom advantageously -- * yea, beneficent Master, for You are the friend of man."
 
 peMA.Ode6C1H.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C1H.mode = misc_en_US_carroll.Mode1
@@ -283,24 +283,25 @@ peMA.Ode6C1H.text = he.h.m1_en_US_carroll.TonProfitinDiesosas.text
 peMA.Ode6C11.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode6C11.melody = he.h.m1_en_US_carroll.TonProfitinDiesosas.name
-peMA.Ode6C11.incipit = ""
-peMA.Ode6C11.text = ""
+peMA.Ode6C11.incipit = "You abandoned not…"
+peMA.Ode6C11.text = "You abandoned not Didymus * as he floundered in doubt's abyss, * but swiftly You reached out with both hands * that he might examine them.
+"
 
 peMA.Ode6C12.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode6C12.melody = he.h.m1_en_US_carroll.TonProfitinDiesosas.name
-peMA.Ode6C12.incipit = ""
-peMA.Ode6C12.text = ""
+peMA.Ode6C12.incipit = "Then our Savior…"
+peMA.Ode6C12.text = "Then our Savior instructed them, * \"Touch and see for yourselves, my friends, * that I am still clothed in the body: * no, I have not changed at all.\""
 
 peMA.Ode6C13.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode6C13.melody = he.h.m1_en_US_carroll.TonProfitinDiesosas.name
-peMA.Ode6C13.incipit = ""
-peMA.Ode6C13.text = ""
+peMA.Ode6C13.incipit = "Thomas handled…"
+peMA.Ode6C13.text = "Thomas handled Your side, O Lord, * and, believing, he recognized * his God and his Lord there before him, * when You had come back for him."
 
 peMA.Kontakion1.mode = misc_en_US_carroll.Mode8
 peMA.Kontakion1.melody = ""
-peMA.Kontakion1.incipit = ""
+peMA.Kontakion1.incipit = "…"
 peMA.Kontakion1.text = ""
 
 peMA.Oikos1.text = ""
@@ -327,26 +328,26 @@ peMA.Ode7C1H.text = he.h.m1_en_US_carroll.EikoniLatrevein.text
 peMA.Ode7C11.ode = misc_en_US_carroll.Ode7
 peMA.Ode7C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode7C11.melody = he.h.m1_en_US_carroll.EikoniLatrevein.name
-peMA.Ode7C11.incipit = ""
-peMA.Ode7C11.text = ""
+peMA.Ode7C11.incipit = "Today is the foremost…"
+peMA.Ode7C11.text = "Today is the foremost -- yea the Mistress -- of feast days, * in splendor fitly arrayed; * today rejoicing and merriment * well befit the people of God; * for this, the Eighth of Days, * bears eternity's image, * being figure and type of the age to come. * Brethren, let us cry to Him, * \"God exalted over all, * You, our fathers' God and ours, for evermore are blessed.\""
 
 peMA.Ode7C12.ode = misc_en_US_carroll.Ode7
 peMA.Ode7C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode7C12.melody = he.h.m1_en_US_carroll.EikoniLatrevein.name
-peMA.Ode7C12.incipit = ""
-peMA.Ode7C12.text = ""
+peMA.Ode7C12.incipit = "Alone in his boldness…"
+peMA.Ode7C12.text = "Alone in his boldness, in his faithless believing * our benefactor and friend, * the daring Didymus dissipates * error's gloomy ignorance quite * for all the ends of earth * by his trusting suspicion; * for himself, though, he weaves a celestial crown, * saying, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours for evermore are blessed.\""
 
 peMA.Ode7C13.ode = misc_en_US_carroll.Ode7
 peMA.Ode7C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode7C13.melody = he.h.m1_en_US_carroll.EikoniLatrevein.name
-peMA.Ode7C13.incipit = ""
-peMA.Ode7C13.text = ""
+peMA.Ode7C13.incipit = "Not idly did Thomas…"
+peMA.Ode7C13.text = "Not idly did Thomas disbelieve Your arising, * nor did he fruitlessly doubt, * but boldly strove to substantiate * this incontrovertible truth * for every tribe on earth; * thus by doubting he proved Your Resurrection and taught all the world to cry, * singing, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours, for evermore are blessed.\""
 
 peMA.Ode7C14.ode = misc_en_US_carroll.Ode7
 peMA.Ode7C14.mode = misc_en_US_carroll.Mode1
 peMA.Ode7C14.melody = he.h.m1_en_US_carroll.EikoniLatrevein.name
-peMA.Ode7C14.incipit = ""
-peMA.Ode7C14.text = ""
+peMA.Ode7C14.incipit = "When fearfully Thomas…"
+peMA.Ode7C14.text = "When fearfully Thomas put his hand in Your awesome * and wondrous life-bringing side, * with trembling hand he perceived in You * both Your operations, O Christ, * two natures, God and man, * unconfused yet united; * and believing with fervor he cried aloud, * saying, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours, for evermore are blessed.\""
 
 peMA.Ode8C1H.ode = misc_en_US_carroll.Ode8
 peMA.Ode8C1H.mode = misc_en_US_carroll.Mode1
@@ -357,20 +358,20 @@ peMA.Ode8C1H.text = he.h.m1_en_US_carroll.TonEnFlogiPyros.text
 peMA.Ode8C11.ode = misc_en_US_carroll.Ode8
 peMA.Ode8C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode8C11.melody = he.h.m1_en_US_carroll.TonEnFlogiPyros.name
-peMA.Ode8C11.incipit = ""
-peMA.Ode8C11.text = ""
+peMA.Ode8C11.incipit = "And longing to behold…"
+peMA.Ode8C11.text = "And longing to behold Your most gladdening visage, * at first bold Didymus doubted, * but counted worthy, Master, in wonder to behold You, he called You God and Lord, * Whom above all others we glorify forever."
 
 peMA.Ode8C12.ode = misc_en_US_carroll.Ode8
 peMA.Ode8C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode8C12.melody = he.h.m1_en_US_carroll.TonEnFlogiPyros.name
-peMA.Ode8C12.incipit = ""
-peMA.Ode8C12.text = ""
+peMA.Ode8C12.incipit = "The One Who tolerated…"
+peMA.Ode8C12.text = "The One Who tolerated the doubt and suspicion * and showed His side pierced and wounded * and by the hand of Didymus deigned to be examined, you servants, praise as Lord, * and above all others exalt Him to the ages."
 
 peMA.Ode8C13.ode = misc_en_US_carroll.Ode8
 peMA.Ode8C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode8C13.melody = he.h.m1_en_US_carroll.TonEnFlogiPyros.name
-peMA.Ode8C13.incipit = ""
-peMA.Ode8C13.text = ""
+peMA.Ode8C13.incipit = "Your curiosity has uncovered…"
+peMA.Ode8C13.text = "Your curiosity has uncovered for mortals * a hidden treasure, good Thomas, * for lo with tongue inspired you proclaimed Him God and cried, \"All you peoples, praise the Christ, * and above all others exalt Him to the ages.\""
 
 peMA.Ode9C1H.ode = misc_en_US_carroll.Ode9
 peMA.Ode9C1H.mode = misc_en_US_carroll.Mode1
@@ -381,44 +382,44 @@ peMA.Ode9C1H.text = he.h.m1_en_US_carroll.SeTinFaeinin.text
 peMA.Ode9C11.ode = misc_en_US_carroll.Ode9
 peMA.Ode9C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode9C11.melody = he.h.m1_en_US_carroll.SeTinFaeinin.name
-peMA.Ode9C11.incipit = ""
-peMA.Ode9C11.text = ""
+peMA.Ode9C11.incipit = "Your resplendent day…"
+peMA.Ode9C11.text = "Your resplendent day, bedazzling, * bright and luminous, O Christ, * when You came to Your chosen, * when fairer than the children of men You entered, * in hymns of praise we magnify."
 
 peMA.Ode9C12.ode = misc_en_US_carroll.Ode9
 peMA.Ode9C12.mode = misc_en_US_carroll.Mode1
 peMA.Ode9C12.melody = he.h.m1_en_US_carroll.SeTinFaeinin.name
-peMA.Ode9C12.incipit = ""
-peMA.Ode9C12.text = ""
+peMA.Ode9C12.incipit = "You Who by a hand…"
+peMA.Ode9C12.text = "You Who by a hand of mortal * clay were probed inquiringly, * yet preserved it from burning * amid the fiery flame of Your godly nature, in hymns of praise we magnify."
 
 peMA.Ode9C13.ode = misc_en_US_carroll.Ode9
 peMA.Ode9C13.mode = misc_en_US_carroll.Mode1
 peMA.Ode9C13.melody = he.h.m1_en_US_carroll.SeTinFaeinin.name
-peMA.Ode9C13.incipit = ""
-peMA.Ode9C13.text = ""
+peMA.Ode9C13.incipit = "You Who being God…"
+peMA.Ode9C13.text = "You Who being God have risen * from the tomb, immortal Christ, * Whom our eyes have not seen yet, * in Whom with longing hearts we believe with fervor, * in hymns of praise we magnify."
 
 peMA.Exaposteilarion1.mode = misc_en_US_carroll.Mode3
 peMA.Exaposteilarion1.melody = he.a.m3_en_US_carroll.OOuranonToisAstrois.name
-peMA.Exaposteilarion1.incipit = ""
+peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""
 
 peMA.Exaposteilarion2.mode = misc_en_US_carroll.Mode3
 peMA.Exaposteilarion2.melody = he.a.m3_en_US_carroll.OOuranonToisAstrois.name
-peMA.Exaposteilarion2.incipit = ""
+peMA.Exaposteilarion2.incipit = "…"
 peMA.Exaposteilarion2.text = ""
 
 peMA.Lauds1.mode = misc_en_US_carroll.Mode1
 peMA.Lauds1.melody = he.a.m1_en_US_carroll.PaneffimoiMartyres.name
-peMA.Lauds1.incipit = ""
+peMA.Lauds1.incipit = "…"
 peMA.Lauds1.text = ""
 
 peMA.Lauds2.mode = misc_en_US_carroll.Mode1
 peMA.Lauds2.melody = he.a.m1_en_US_carroll.PaneffimoiMartyres.name
-peMA.Lauds2.incipit = ""
+peMA.Lauds2.incipit = "…"
 peMA.Lauds2.text = ""
 
 peMA.Lauds3.mode = misc_en_US_carroll.Mode1
 peMA.Lauds3.melody = he.a.m1_en_US_carroll.PaneffimoiMartyres.name
-peMA.Lauds3.incipit = ""
+peMA.Lauds3.incipit = "…"
 peMA.Lauds3.text = ""
 
 peMA.MM.Lauds123as123.text = properties_en_US_carroll.media.key
@@ -427,7 +428,7 @@ peMA.MM.Lauds123as456.text = properties_en_US_carroll.media.key
 
 peMA.LaudsGlory.mode = misc_en_US_carroll.Mode6
 peMA.LaudsGlory.melody = misc_en_US_carroll.Idiomelon
-peMA.LaudsGlory.incipit = ""
+peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
