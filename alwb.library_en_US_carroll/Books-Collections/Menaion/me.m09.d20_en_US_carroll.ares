@@ -103,9 +103,7 @@ meMA.Kathisma21.text = //me.m09.d14_en_US_carroll.meMA.Kathisma31.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = //poets_en_US_carroll.Theofanous
 meMA.C1.title = //titles_en_US_carroll.KanonTouAgiou
 meMA.C1.verse = //prayers_en_US_carroll.verse_SaintM.text
 
