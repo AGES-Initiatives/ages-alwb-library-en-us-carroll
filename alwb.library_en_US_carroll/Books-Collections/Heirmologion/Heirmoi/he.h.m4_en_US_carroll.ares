@@ -702,8 +702,8 @@ OsIonanTonProfitin.mode = misc_en_US_carroll.Mode4
 OsIonanTonProfitin.ode = misc_en_US_carroll.Ode6
 OsIonanTonProfitin.text = ""
 
-OtiEpoiiseMoiMegaleia.notmetered = "N/M (For Mighty God.)"
-OtiEpoiiseMoiMegaleia.name = "For Mighty God has done great things."
+OtiEpoiiseMoiMegaleia.notmetered = "N/M (For He who is all-powerful.)"
+OtiEpoiiseMoiMegaleia.name = "For He who is all-powerful."
 OtiEpoiiseMoiMegaleia.incipit = "For Mighty God has done great things…"
 OtiEpoiiseMoiMegaleia.melody = misc_en_US_carroll.Heirmos
 OtiEpoiiseMoiMegaleia.mode = misc_en_US_carroll.Mode4
