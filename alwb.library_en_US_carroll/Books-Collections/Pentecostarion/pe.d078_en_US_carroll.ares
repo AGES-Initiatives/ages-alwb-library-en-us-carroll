@@ -286,8 +286,7 @@ peMA.Ode6C11.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C11.mode = misc_en_US_carroll.Mode1
 peMA.Ode6C11.melody = he.h.m1_en_US_carroll.TonProfitinDiesosas.name
 peMA.Ode6C11.incipit = "You abandoned not…"
-peMA.Ode6C11.text = "You abandoned not Didymus * as he floundered in doubt's abyss, * but swiftly You reached out with both hands * that he might examine them.
-"
+peMA.Ode6C11.text = "You abandoned not Didymus * as he floundered in doubt's abyss, * but swiftly You reached out with both hands * that he might examine them."
 
 peMA.Ode6C12.ode = misc_en_US_carroll.Ode6
 peMA.Ode6C12.mode = misc_en_US_carroll.Mode1
