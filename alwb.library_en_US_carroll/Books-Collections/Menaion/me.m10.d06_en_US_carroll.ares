@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = "Having put in…"
 meVE.Stichera01.text = "Having put in the Master's side, * blessed Thomas, your doubting hand, * you have taken hold of the summit of good things: * for like a sponge, from the side of Christ * you soaked up the fountain-streams, * ev'ry blessing flowing free, * the cool draft of eternal life, * and you watered hearts * drained and parched by their ignorance of God, O Thomas, cool, refreshing fountain * streaming the knowledge of God enfleshed."

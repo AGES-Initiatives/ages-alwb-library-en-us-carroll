@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_carroll.misc.Mode2
+meVE.Stichera01.greekmelody = he.a.m2_en_US_carroll.heAU.OteEkTouXylou.greekname
 meVE.Stichera01.melody = he.a.m2_en_US_carroll.heAU.OteEkTouXylou.name
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
@@ -35,6 +36,7 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.Stichera04.greekmelody = he.a.m4_en_US_carroll.heAU.EdokasSimeiosin.greekname
 meVE.Stichera04.melody = he.a.m4_en_US_carroll.heAU.EdokasSimeiosin.name
 meVE.Stichera04.incipit = "From God came your calling…"
 meVE.Stichera04.text = "From God came your calling, not from mortal men, O Efstathios, * for Himself Christ the Friend of Man * appeared to you through a stag, * catching you, O blest one, * in the nets of faith, and * then, washing all your sins away, * by sacred baptism justifying you, * He offered you the gift of patience for the testing ground of this life * and revealed you through Job-like trials * a bold victor acclaimed by all."

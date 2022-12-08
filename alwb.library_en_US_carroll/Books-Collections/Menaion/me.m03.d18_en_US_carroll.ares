@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = "Like a luminous star you rose…"
 meVE.Stichera01.text = "Like a luminous star you rose * and gave light to believers' minds * by the priestly brilliancy of your homilies; * and you outshone all the heresies, completely eclipsing them; * as Christ's servant you increased * the gold talent entrusted you, * and you heard Him say, * \"Faithful servant, well done,\" as you deposited your soul most priestly, Cyril, * into His hands, earning paradise."
