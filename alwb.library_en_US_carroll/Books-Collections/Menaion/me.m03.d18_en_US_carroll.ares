@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "The pernicious and sinister…"
 meVE.Stichera03.text = "The pernicious and sinister * mind of Mani the maniac * you, wise Cyril, beautifully put to shame and scorn; * the filthy teachings of his depraved, perverse heart you well exposed, * prince of teachers, guide of souls, * the ordained's comely dignity, * godly champion * of the Church, boldly turning back the foes of Christ, and so with joy and gladness * we celebrate your memorial."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.name
 meVE.SticTheotokion.incipit = ""
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.incipit = //me.m02.d11_en_US_carroll.meVE.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = //me.m02.d11_en_US_carroll.meVE.AposStavrotheotokion.text
