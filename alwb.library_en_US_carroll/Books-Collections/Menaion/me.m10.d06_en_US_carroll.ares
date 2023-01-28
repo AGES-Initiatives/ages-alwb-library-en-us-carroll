@@ -80,6 +80,7 @@ meVE.GeneralApolytikion1.name = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_carroll.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_carroll.misc.Mode4
+meVE.Apolytikion2.greekmelody = he.a.m4_en_US_carroll.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2.melody = he.a.m4_en_US_carroll.heAU.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""

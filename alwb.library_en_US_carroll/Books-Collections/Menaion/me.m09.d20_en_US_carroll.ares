@@ -91,6 +91,7 @@ meVE.AposBoth.text = //me.m09.d14_en_US_carroll.meMA.LaudsGlory.text
 
 meVE.Apolytikion1.poet = //poets_en_US_carroll.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_carroll.misc.Mode1
+meVE.Apolytikion1.greekmelody = he.a.m1_en_US_carroll.heAU.TisErimouPolitis.greekname
 meVE.Apolytikion1.melody = he.a.m1_en_US_carroll.heAU.TisErimouPolitis.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
