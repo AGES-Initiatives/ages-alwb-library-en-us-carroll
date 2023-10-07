@@ -1,26 +1,5 @@
 A_Resource_Whose_Name = me.m08.d01_en_US_carroll
 
-meDA.date = ""
-meDA.commemoration.full = "" // full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meInsert0 = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" // for use in petitions and dismissal
-meDA.insert2 = "" // for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-meTY.note1 = ""
-
 meVE.Stichera01.mode = miscellanea_en_US_carroll.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_carroll.heAU.OsGennaionEnMartysi.name
