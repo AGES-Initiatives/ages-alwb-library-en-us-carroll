@@ -24,7 +24,7 @@ peMA.Ode1C13.ode = miscellanea_en_US_carroll.misc.Ode1
 peMA.Ode1C13.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode1C13.melody = he.h.m1_en_US_carroll.heHE.AsomenPantesLaoi.name
 peMA.Ode1C13.incipit = "Neither the gatehouse…"
-peMA.Ode1C13.text = "Neither the gatehouse of death, * nor yet the tomb's confinement, * nor the doors securely barred withstood Your might, O Christ; * but, risen, You appeared there * amidst your friends, bestowing peace on them: * that peace of God that passes * all understanding of men."
+peMA.Ode1C13.text = "Neither the gatehouse of death, * nor yet the tomb’s confinement, * nor the doors securely barred withstood Your might, O Christ; * but, risen, You appeared there * amidst your friends, bestowing peace on them: * that peace of God that passes * all understanding of men."
 
 peMA.Ode3C1H.ode = miscellanea_en_US_carroll.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_carroll.misc.Mode1
@@ -122,13 +122,13 @@ peMA.Ode6C11.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode6C11.greekmelody = he.h.m1_en_US_carroll.heHE.TonProfitinDiesosas.greekname
 peMA.Ode6C11.melody = he.h.m1_en_US_carroll.heHE.TonProfitinDiesosas.name
 peMA.Ode6C11.incipit = "You abandoned not…"
-peMA.Ode6C11.text = "You abandoned not Didymus * as he floundered in doubt's abyss, * but swiftly You reached out with both hands * that he might examine them."
+peMA.Ode6C11.text = "You abandoned not Didymus * as he floundered in doubt’s abyss, * but swiftly You reached out with both hands * that he might examine them."
 
 peMA.Ode6C12.ode = miscellanea_en_US_carroll.misc.Ode6
 peMA.Ode6C12.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode6C12.melody = he.h.m1_en_US_carroll.heHE.TonProfitinDiesosas.name
 peMA.Ode6C12.incipit = "Then our Savior…"
-peMA.Ode6C12.text = "Then our Savior instructed them, * \"Touch and see for yourselves, my friends, * that I am still clothed in the body: * no, I have not changed at all.\""
+peMA.Ode6C12.text = "Then our Savior instructed them, * “Touch and see for yourselves, my friends, * that I am still clothed in the body: * no, I have not changed at all.”"
 
 peMA.Ode6C13.ode = miscellanea_en_US_carroll.misc.Ode6
 peMA.Ode6C13.mode = miscellanea_en_US_carroll.misc.Mode1
@@ -148,25 +148,25 @@ peMA.Ode7C11.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode7C11.greekmelody = he.h.m1_en_US_carroll.heHE.EikoniLatrevein.greekname
 peMA.Ode7C11.melody = he.h.m1_en_US_carroll.heHE.EikoniLatrevein.name
 peMA.Ode7C11.incipit = "Today is the foremost…"
-peMA.Ode7C11.text = "Today is the foremost -- yea the Mistress -- of feast days, * in splendor fitly arrayed; * today rejoicing and merriment * well befit the people of God; * for this, the Eighth of Days, * bears eternity's image, * being figure and type of the age to come. * Brethren, let us cry to Him, * \"God exalted over all, * You, our fathers' God and ours, for evermore are blessed.\""
+peMA.Ode7C11.text = "Today is the foremost -- yea the Mistress -- of feast days, * in splendor fitly arrayed; * today rejoicing and merriment * well befit the people of God; * for this, the Eighth of Days, * bears eternity’s image, * being figure and type of the age to come. * Brethren, let us cry to Him, * “God exalted over all, * You, our fathers’ God and ours, for evermore are blessed.”"
 
 peMA.Ode7C12.ode = miscellanea_en_US_carroll.misc.Ode7
 peMA.Ode7C12.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode7C12.melody = he.h.m1_en_US_carroll.heHE.EikoniLatrevein.name
 peMA.Ode7C12.incipit = "Alone in his boldness…"
-peMA.Ode7C12.text = "Alone in his boldness, in his faithless believing * our benefactor and friend, * the daring Didymus dissipates * error's gloomy ignorance quite * for all the ends of earth * by his trusting suspicion; * for himself, though, he weaves a celestial crown, * saying, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours for evermore are blessed.\""
+peMA.Ode7C12.text = "Alone in his boldness, in his faithless believing * our benefactor and friend, * the daring Didymus dissipates * error’s gloomy ignorance quite * for all the ends of earth * by his trusting suspicion; * for himself, though, he weaves a celestial crown, * saying, “Jesus, You are Lord, * God exalted over all; * You, our fathers’ God and ours for evermore are blessed.”"
 
 peMA.Ode7C13.ode = miscellanea_en_US_carroll.misc.Ode7
 peMA.Ode7C13.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode7C13.melody = he.h.m1_en_US_carroll.heHE.EikoniLatrevein.name
 peMA.Ode7C13.incipit = "Not idly did Thomas…"
-peMA.Ode7C13.text = "Not idly did Thomas disbelieve Your arising, * nor did he fruitlessly doubt, * but boldly strove to substantiate * this incontrovertible truth * for every tribe on earth; * thus by doubting he proved Your Resurrection and taught all the world to cry, * singing, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours, for evermore are blessed.\""
+peMA.Ode7C13.text = "Not idly did Thomas disbelieve Your arising, * nor did he fruitlessly doubt, * but boldly strove to substantiate * this incontrovertible truth * for every tribe on earth; * thus by doubting he proved Your Resurrection and taught all the world to cry, * singing, “Jesus, You are Lord, * God exalted over all; * You, our fathers’ God and ours, for evermore are blessed.”"
 
 peMA.Ode7C14.ode = miscellanea_en_US_carroll.misc.Ode7
 peMA.Ode7C14.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode7C14.melody = he.h.m1_en_US_carroll.heHE.EikoniLatrevein.name
 peMA.Ode7C14.incipit = "When fearfully Thomas…"
-peMA.Ode7C14.text = "When fearfully Thomas put his hand in Your awesome * and wondrous life-bringing side, * with trembling hand he perceived in You * both Your operations, O Christ, * two natures, God and man, * unconfused yet united; * and believing with fervor he cried aloud, * saying, \"Jesus, You are Lord, * God exalted over all; * You, our fathers' God and ours, for evermore are blessed.\""
+peMA.Ode7C14.text = "When fearfully Thomas put his hand in Your awesome * and wondrous life-bringing side, * with trembling hand he perceived in You * both Your operations, O Christ, * two natures, God and man, * unconfused yet united; * and believing with fervor he cried aloud, * saying, “Jesus, You are Lord, * God exalted over all; * You, our fathers’ God and ours, for evermore are blessed.”"
 
 peMA.Ode8C1H.ode = miscellanea_en_US_carroll.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_carroll.misc.Mode1
@@ -192,7 +192,7 @@ peMA.Ode8C13.ode = miscellanea_en_US_carroll.misc.Ode8
 peMA.Ode8C13.mode = miscellanea_en_US_carroll.misc.Mode1
 peMA.Ode8C13.melody = he.h.m1_en_US_carroll.heHE.TonEnFlogiPyros.name
 peMA.Ode8C13.incipit = "Your curiosity has uncovered…"
-peMA.Ode8C13.text = "Your curiosity has uncovered for mortals * a hidden treasure, good Thomas, * for lo with tongue inspired you proclaimed Him God and cried, \"All you peoples, praise the Christ, * and above all others exalt Him to the ages.\""
+peMA.Ode8C13.text = "Your curiosity has uncovered for mortals * a hidden treasure, good Thomas, * for lo with tongue inspired you proclaimed Him God and cried, “All you peoples, praise the Christ, * and above all others exalt Him to the ages.”"
 
 peMA.Ode9C1H.ode = miscellanea_en_US_carroll.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_carroll.misc.Mode1
